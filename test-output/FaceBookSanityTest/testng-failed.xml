@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FaceBookSanityTest]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.wallethub.uitesting.WalletHubUiAutomation.facebook.TCC01_VerifyMessageIsPostSuccessfully">
+        <methods>
+          <include name="faceBookTimLinePostValidation"/>
+          <include name="openTheBrowser"/>
+        </methods>
+      </class> <!-- com.wallethub.uitesting.WalletHubUiAutomation.facebook.TCC01_VerifyMessageIsPostSuccessfully -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [FaceBookSanityTest] -->

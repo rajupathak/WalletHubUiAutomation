@@ -1,0 +1,195 @@
+2017-12-01 00:27:45,117  INFO [main] TestBase:52 - Creating object of chrome
+2017-12-01 00:27:48,915  INFO [main] TestBase:79 - Navigating to :https://www.facebook.com/
+2017-12-01 00:36:35,840  INFO [main] TestBase:52 - Creating object of chrome
+2017-12-01 00:36:39,459  INFO [main] TestBase:79 - Navigating to :https://www.facebook.com/
+2017-12-01 00:37:38,003  INFO [main] TestBase:52 - Creating object of chrome
+2017-12-01 00:37:41,863  INFO [main] TestBase:79 - Navigating to :https://www.facebook.com/
+2017-12-01 00:43:18,586  INFO [main] TestBase:52 - Creating object of chrome
+2017-12-01 00:43:22,714  INFO [main] TestBase:79 - Navigating to :https://www.facebook.com/
+2017-12-01 00:44:34,823  INFO [main] TestBase:52 - Creating object of chrome
+2017-12-01 00:44:40,883  INFO [main] TestBase:79 - Navigating to :https://www.facebook.com/
+2017-12-01 00:44:47,507  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 00:47:14,784  INFO [main] TestBase:52 - Creating object of chrome
+2017-12-01 00:47:18,602  INFO [main] TestBase:79 - Navigating to :https://www.facebook.com/
+2017-12-01 00:47:24,146  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 00:48:47,184  INFO [main] TestBase:52 - Creating object of chrome
+2017-12-01 00:48:51,386  INFO [main] TestBase:79 - Navigating to :https://www.facebook.com/
+2017-12-01 00:49:01,790  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 01:06:53,132  INFO [main] TestBase:52 - Creating object of chrome
+2017-12-01 01:06:56,556  INFO [main] TestBase:79 - Navigating to :https://www.facebook.com/
+2017-12-01 01:07:03,685  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 01:08:04,465  INFO [main] TestBase:52 - Creating object of chrome
+2017-12-01 01:08:08,041  INFO [main] TestBase:79 - Navigating to :https://www.facebook.com/
+2017-12-01 01:08:13,759  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 01:26:58,138  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:26:58,141  INFO [main] TestBase:74 - Navigating to :https://www.facebook.com/
+2017-12-01 01:28:48,876  INFO [main] TestBase:46 - Creating object of firefox
+2017-12-01 01:29:17,830  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:30:31,170  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:30:40,388  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 01:30:45,382  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 01:34:37,667  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:34:44,625  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 01:34:49,298  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 01:36:30,064  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:36:37,050  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 01:36:43,750  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 01:38:31,993  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:38:39,248  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 01:39:44,994  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 01:40:32,771  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:40:40,009  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 01:40:46,428  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 01:41:34,542  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:41:41,460  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 01:41:49,252  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 01:43:33,316  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:43:45,387  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 01:43:51,401  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 01:48:52,314  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:49:01,634  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 01:49:10,096  INFO [main] FacebookLoginPage:39 - insideloginWithValidCredentials 
+2017-12-01 01:54:39,701  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:54:46,902  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 01:54:53,214  INFO [main] FacebookLoginPage:40 - insideloginWithValidCredentials 
+2017-12-01 01:58:21,860  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 01:58:29,296  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 01:58:39,368  INFO [main] FacebookLoginPage:40 - insideloginWithValidCredentials 
+2017-12-01 02:00:52,076  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 02:01:02,282  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 02:01:10,305  INFO [main] FacebookLoginPage:40 - insideloginWithValidCredentials 
+2017-12-01 02:02:25,010  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 02:02:32,613  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 02:02:39,213  INFO [main] FacebookLoginPage:40 - insideloginWithValidCredentials 
+2017-12-01 02:06:13,092  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 02:06:16,499  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 02:06:22,841  INFO [main] FacebookLoginPage:40 - insideloginWithValidCredentials 
+2017-12-01 12:28:02,048  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 12:28:12,165  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 12:28:25,862  INFO [main] FacebookLoginPage:40 - insideloginWithValidCredentials 
+2017-12-01 12:29:18,253  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 12:29:23,022  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 12:29:34,735  INFO [main] FacebookLoginPage:40 - insideloginWithValidCredentials 
+2017-12-01 12:32:31,067  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 12:32:34,676  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 12:32:48,273  INFO [main] FacebookLoginPage:44 - insideloginWithValidCredentials 
+2017-12-01 12:38:00,421  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 12:38:03,545  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 12:38:14,609  INFO [main] FacebookLoginPage:44 - insideloginWithValidCredentials 
+2017-12-01 12:39:45,281  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 12:39:48,675  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 12:39:58,390  INFO [main] FacebookLoginPage:44 - insideloginWithValidCredentials 
+2017-12-01 12:40:54,482  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 12:40:57,741  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 12:41:14,021  INFO [main] FacebookLoginPage:44 - insideloginWithValidCredentials 
+2017-12-01 12:55:01,802  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 12:55:04,903  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 12:55:14,625  INFO [main] FacebookLoginPage:44 - insideloginWithValidCredentials 
+2017-12-01 13:01:22,461  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 13:01:28,771  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 13:01:44,916  INFO [main] FacebookLoginPage:44 - insideloginWithValidCredentials 
+2017-12-01 13:06:41,997  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 13:06:45,715  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 13:06:57,856  INFO [main] FacebookLoginPage:44 - insideloginWithValidCredentials 
+2017-12-01 13:07:38,251  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 13:07:41,874  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 13:07:55,839  INFO [main] FacebookLoginPage:44 - insideloginWithValidCredentials 
+2017-12-01 13:09:12,762  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 13:09:30,673  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 13:09:50,059  INFO [main] FacebookLoginPage:44 - insideloginWithValidCredentials 
+2017-12-01 14:10:23,475  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 14:11:17,384  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 14:11:35,859  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 14:17:17,988  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 14:17:22,432  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 14:17:32,666  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 14:21:00,023  INFO [main] TestBase:47 - Creating object of firefox
+2017-12-01 14:21:14,406  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 14:21:30,838  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 15:38:30,076  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 15:38:38,203  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 15:38:47,825  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 15:39:42,199  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 15:39:45,784  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 15:39:55,929  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 15:40:36,758  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 15:40:40,433  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 15:40:50,153  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 15:41:32,765  INFO [main] TestBase:47 - Creating object of chrome
+2017-12-01 15:41:36,639  INFO [main] TestBase:76 - Navigating to :https://www.facebook.com/
+2017-12-01 15:41:52,738  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 15:50:03,789  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 15:50:07,546  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 15:50:16,615  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 15:51:26,320  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 15:51:31,432  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 15:51:43,471  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 15:53:50,246  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 15:53:54,469  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 15:54:03,006  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 15:54:49,275  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 15:54:54,620  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 15:55:02,215  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 15:56:44,036  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 15:56:48,446  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 15:57:01,571  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 15:58:17,410  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 15:58:22,517  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 15:58:30,994  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 16:00:44,429  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 16:00:48,523  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 16:01:02,543  INFO [main] FacebookLoginPage:42 - insideloginWithValidCredentials 
+2017-12-01 16:03:22,849  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 16:03:27,723  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 16:03:38,414  INFO [main] FacebookLoginPage:43 - insideloginWithValidCredentials 
+2017-12-01 16:06:22,478  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 16:06:27,998  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 16:06:41,866  INFO [main] FacebookLoginPage:43 - insideloginWithValidCredentials 
+2017-12-01 16:08:48,535  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 16:08:52,356  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 16:08:59,973  INFO [main] FacebookLoginPage:43 - insideloginWithValidCredentials 
+2017-12-01 16:11:26,122  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 16:11:29,975  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 16:11:38,233  INFO [main] FacebookLoginPage:43 - insideloginWithValidCredentials 
+2017-12-01 20:06:04,608  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 20:06:18,495  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 20:06:23,809  INFO [main] FacebookLoginPage:43 - insideloginWithValidCredentials 
+2017-12-01 20:13:55,227  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 20:14:01,017  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 20:14:06,996  INFO [main] FacebookLoginPage:43 - insideloginWithValidCredentials 
+2017-12-01 20:28:09,129  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 20:28:14,432  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 20:28:19,916  INFO [main] FacebookLoginPage:43 - insideloginWithValidCredentials 
+2017-12-01 20:36:07,283  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 20:36:11,879  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 20:36:19,806  INFO [main] FacebookLoginPage:48 - insideloginWithValidCredentials 
+2017-12-01 20:36:44,326  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 20:36:49,808  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 20:37:11,367  INFO [main] FacebookLoginPage:48 - insideloginWithValidCredentials 
+2017-12-01 20:38:06,611  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 20:38:11,173  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 20:38:17,471  INFO [main] FacebookLoginPage:48 - insideloginWithValidCredentials 
+2017-12-01 20:38:25,047  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 20:38:30,194  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 20:38:39,732  INFO [main] FacebookLoginPage:48 - insideloginWithValidCredentials 
+2017-12-01 20:39:38,176  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 20:39:42,803  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 20:39:48,523  INFO [main] FacebookLoginPage:48 - insideloginWithValidCredentials 
+2017-12-01 20:40:39,933  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 20:40:44,547  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 20:40:49,210  INFO [main] FacebookLoginPage:48 - insideloginWithValidCredentials 
+2017-12-01 21:09:59,415  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 21:10:04,478  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 21:10:10,192  INFO [main] FacebookLoginPage:48 - insideloginWithValidCredentials 
+2017-12-01 21:14:10,756  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 21:14:14,643  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 21:14:19,664  INFO [main] FacebookLoginPage:45 - insideloginWithValidCredentials 
+2017-12-01 21:18:39,454  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 21:18:43,792  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 21:18:51,202  INFO [main] FacebookLoginPage:45 - insideloginWithValidCredentials 
+2017-12-01 21:26:38,353  INFO [main] TestBase:46 - Creating object of chrome
+2017-12-01 21:26:42,889  INFO [main] TestBase:73 - Navigating to :https://www.facebook.com/
+2017-12-01 21:26:48,140  INFO [main] FacebookLoginPage:45 - insideloginWithValidCredentials 
+2017-12-01 23:46:03,705  INFO [main] TestBase:46 - Creating object of firefox
+2017-12-01 23:46:34,794  INFO [main] TestBase:46 - Creating object of firefox
+2017-12-01 23:47:00,489  INFO [main] TestBase:46 - Creating object of chrome

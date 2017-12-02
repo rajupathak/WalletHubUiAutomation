@@ -42,7 +42,7 @@ public class FacebookLoginPage extends TestBase {
 
 	public void loginWithValidCredentials(String UserName, String Password,
 			WebDriver driver) {
-		log.info("insideloginWithValidCredentials ");
+		log.info("insideloginWithValidCredentials method ");
 		this.driver = driver;
 
 		obj.highLighteBackground(driver, userName);
